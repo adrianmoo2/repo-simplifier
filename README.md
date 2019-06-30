@@ -1,4 +1,4 @@
-# React Test App
+# Repo Simplifier
 
 *Short description of your project, in one or two sentences.* 
 

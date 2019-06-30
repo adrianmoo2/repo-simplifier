@@ -1,0 +1,36 @@
+{
+  "name": "react-test-app",
+  "version": "1.0.0",
+  "description": "*Short description of your project, in one or two sentences.*",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development ./rcreator/frontend/src/index.js --output ./rcreator/frontend/static/frontend/main.js",
+    "build": "webpack --mode production ./rcreator/frontend/src/index.js --output ./rcreator/frontend/static/frontend/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianmoo2/react-test-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianmoo2/react-test-app/issues"
+  },
+  "homepage": "https://github.com/adrianmoo2/react-test-app#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "webpack": "^4.35.0",
+    "webpack-cli": "^3.3.5"
+  },
+  "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

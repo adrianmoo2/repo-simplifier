@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\Adrian\\AppData\\Roaming\\SPB_Data\\.virtualenvs\\react-test-app-DC71mvMD\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\Adrian\\AppData\\Roaming\\SPB_Data\\.virtualenvs\\repo-simplifier-IUItrVrr\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
